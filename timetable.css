@@ -1,0 +1,17 @@
+
+#ff{
+    margin: auto;
+}
+#ee{
+    text-align: center;
+}
+#br{
+    writing-mode:vertical-rl;
+    text-orientation: upright;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#TR2{
+    padding: 1px;
+    background-color: lightgray;
+}
